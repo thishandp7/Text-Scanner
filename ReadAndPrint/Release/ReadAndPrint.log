@@ -1,0 +1,17 @@
+﻿  Moc'ing readandprint.h...
+  Uic'ing readandprint.ui...
+  Rcc'ing readandprint.qrc...
+RCC : warning : No resources in 'C:\Users\THISHAN\Documents\Visual Studio 2015\Projects\ReadAndPrint\ReadAndPrint\readandprint.qrc'.
+  
+  qrc_readandprint.cpp
+  moc_readandprint.cpp
+c:\users\thishan\documents\visual studio 2015\projects\readandprint\readandprint\generatedfiles\release\../../readandprint.h(6): fatal error C1083: Cannot open include file: 'opencv2\core\core.hpp': No such file or directory
+  main.cpp
+c:\users\thishan\documents\visual studio 2015\projects\readandprint\readandprint\readandprint.h(6): fatal error C1083: Cannot open include file: 'opencv2\core\core.hpp': No such file or directory
+  readandprint.cpp
+c:\users\thishan\documents\visual studio 2015\projects\readandprint\readandprint\readandprint.h(6): fatal error C1083: Cannot open include file: 'opencv2\core\core.hpp': No such file or directory
+  TextReadingAlgorithm.cpp
+c:\users\thishan\documents\visual studio 2015\projects\readandprint\readandprint\TextReadingAlgorithm.h(2): fatal error C1083: Cannot open include file: 'opencv2\core\core.hpp': No such file or directory
+  TextReadingAlgorithmController.cpp
+c:\users\thishan\documents\visual studio 2015\projects\readandprint\readandprint\TextReadingAlgorithm.h(2): fatal error C1083: Cannot open include file: 'opencv2\core\core.hpp': No such file or directory
+  Generating Code...

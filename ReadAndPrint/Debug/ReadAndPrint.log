@@ -1,0 +1,5 @@
+﻿  TextReadingAlgorithm.cpp
+c:\opencv\tesseract\include\leptonica\environ.h(277): warning C4005: 'snprintf': macro redefinition
+  c:\opencv\tesseract-3.02.02-win32-lib-include-dirs\include\tesseract\platform.h(33): note: see previous definition of 'snprintf'
+  ReadAndPrint.vcxproj -> C:\Users\THISHAN\documents\visual studio 2015\Projects\ReadAndPrint\Win32\Debug\ReadAndPrint.exe
+  ReadAndPrint.vcxproj -> C:\Users\THISHAN\documents\visual studio 2015\Projects\ReadAndPrint\Win32\Debug\ReadAndPrint.pdb (Full PDB)
